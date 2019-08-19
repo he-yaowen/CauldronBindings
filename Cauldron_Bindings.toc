@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: Cauldron_Bindings
+## Notes: Cauldron Extension: Bind spells, items, macros, etc. to shortcut keys.
+## Author: HE Yaowen <he.yaowen@hotmail.com>
+## Version: 1.0.0
+## Dependencies: Cauldron
+
+Cauldron_Bindings.lua
